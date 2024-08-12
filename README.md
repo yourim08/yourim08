@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=300&section=header&text=Welcome%20to%20Yourim's%20Github&fontSize=40&fontColor=D3D3D3&textAlign=right&section=header" />
-    <!-- GitHub Stats 이미지 -->
-    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact" alt="Top Languages" />
+   
