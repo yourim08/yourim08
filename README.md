@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=yourim08&show_icons=true&theme=radical"/>
