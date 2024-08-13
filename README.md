@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=300&section=header&text=Welcome%20to%20Yourim's%20Github&fontSize=40&fontColor=D3D3D3&textAlign=right&section=header" />
-<h2>Language 🌱</h2>
+<h2>Language & Stats🌱</h2>
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <div>
         <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
