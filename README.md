@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourim&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yourim&show_icons=true&theme=radical&textAlign=right"/>
