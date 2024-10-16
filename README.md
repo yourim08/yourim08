@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <h2>Language & Stats🌱</h2>
 <div style="display: flex; flex-direction: row; justify-content: space-between; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=yourim08&show_icons=true&theme=radical&cache_seconds=1500" alt="Yourim's GitHub stats" style="width: 48%;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourim08&layout=compact&theme=radical&cache_seconds=1500" alt="Top Langs" style="width: 36%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourim08&layout=compact&theme=radical&cache_seconds=1500" alt="Top Langs" style="width: 37%;" />
 </div>
