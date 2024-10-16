@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <!--
 **yourim08/yourim08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=300&section=header&text=Welcome%20to%20Yourim's%20Github&fontSize=40&fontColor=D3D3D3&textAlign=right&section=header" />
+
 <h2>Language & Stats🌱</h2>
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <div>
@@ -23,4 +23,6 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     </div>
 </div>
+
+![Yourim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourim08&show_icons=true&theme=radical)
 
