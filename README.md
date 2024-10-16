@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=yourim08&show_icons=true&theme=radical&cache_seconds=1500" alt="Yourim's GitHub stats" style="width: 48%;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourim08&layout=compact&theme=radical&cache_seconds=1500" alt="Top Langs" style="width: 48%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourim08&layout=compact&theme=radical&cache_seconds=1500" alt="Top Langs" style="width: 40%;" />
 </div>
 
 
