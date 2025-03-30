@@ -1,5 +1,4 @@
 ## Hi there 👋
-<h3>사소한 것부터 시작해 일상을 바꾸는 개발자, 전유림입니다!</h3>
 <!--
 **yourim08/yourim08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
