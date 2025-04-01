@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h4>사소한 것부터 시작해 일상을 바꾸는 개발자, 전유림입니다!</h4>
+<h3>사소한 것부터 시작해 일상을 바꾸는 개발자, 전유림입니다!</h3>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=270&section=header&text=Welcome%20to%20Yourim's%20Github&fontSize=40&fontColor=D3D3D3&textAlign=right&section=header" />
 
 <h2>Language & Stats🌱</h2>
