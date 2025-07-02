@@ -25,8 +25,11 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+        <img src="https://img.shields.io/badge/MySQL-ac4534?style=for-the-badge&logo=mysql&logoColor=black"/>
     </div>
 </div>
+<br>
 <div style="display: flex; flex-direction: row; justify-content: space-between; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=yourim08&show_icons=true&theme=radical&cache_seconds=1500" alt="Yourim's GitHub stats" style="width: 48%; height: 200px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourim08&layout=compact&theme=radical&cache_seconds=1500" alt="Top Langs" style="width: 36%; height: 203px;" />
