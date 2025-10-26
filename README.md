@@ -17,15 +17,17 @@
 
 <br>
 
-<table border="0" style="border:none;">
-  <tr>
-    <td align="center" width="50%" style="border:none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourim08&layout=compact&theme=radical&hide_border=true&cache_seconds=1500" width="100%" />
-    </td>
-    <td align="center" width="50%" style="border:none;">
-      <a href="https://velog.io/@jyl0311/posts">
-        <img src="https://velog-readme-stats.vercel.app/api?name=jyl0311" alt="Velog's GitHub stats" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourim08&layout=compact&theme=radical&hide_border=true&cache_seconds=1500"
+    alt="Top Langs"
+    width="40%"
+  />
+  <a href="https://velog.io/@jyl0311/posts">
+    <img
+      src="https://velog-readme-stats.vercel.app/api?name=jyl0311&hide_border=true"
+      alt="Velog's GitHub stats"
+      width="45%"
+    />
+  </a>
+</div>
