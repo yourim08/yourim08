@@ -2,7 +2,7 @@
 <h3>사람을 돕는 가치를 코드로 풀어내는 개발자, 전유림 입니다!</h3>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=270&section=header&text=Welcome%20to%20Yourim's%20Github&fontSize=40&fontColor=D3D3D3&textAlign=right&section=header" />
 
-<h2>Language & Stats🌱</h2>
+<h2>Language & Stats 🌱</h2>
 
 <div>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
