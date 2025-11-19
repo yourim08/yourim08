@@ -5,14 +5,19 @@
 <h2>Language & Stats 🌱</h2>
 
 <div>
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white"> 
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+    <img src="https://img.shields.io/badge/flutter-085A9D?style=for-the-badge&logo=flutter&logoColor=white"/>
+    <br>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-    <img src="https://img.shields.io/badge/MySQL-ac4534?style=for-the-badge&logo=mysql&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Nest.js-EB324B?style=for-the-badge&logo=nestjs&logoColor=black"/>
+    <br>
+    <img src="https://img.shields.io/badge/MySQL-04748E?style=for-the-badge&logo=mysql&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Firebase-FE9517?style=for-the-badge&logo=firebase&logoColor=black"/>
 </div>
 
 <br>
