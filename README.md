@@ -23,11 +23,11 @@
 <br>
 
 <div>
-  <img
+  <!-- <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourim08&layout=compact&theme=radical&hide_border=true&cache_seconds=1500"
     alt="Top Langs"
     width="40%"
-  />
+  /> -->
   <a href="https://velog.io/@jyl0311/posts">
     <img
       src="https://velog-readme-stats.vercel.app/api?name=jyl0311&hide_border=true"
