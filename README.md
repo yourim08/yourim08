@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h3>사람을 돕는 가치를 코드로 풀어내는 개발자, 전유림 입니다!</h3>
+<h3>이타의 가치를 코드로 풀어내는 개발자, 전유림입니다!</h3>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=270&section=header&text=Welcome%20to%20Yourim's%20Github&fontSize=40&fontColor=D3D3D3&textAlign=right&section=header" />
 
 <h2>Language & Stats 🌱</h2>
@@ -23,11 +23,11 @@
 <br>
 
 <div>
-  <!-- <img
+  <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourim08&layout=compact&theme=radical&hide_border=true&cache_seconds=1500"
     alt="Top Langs"
     width="40%"
-  /> -->
+  />
   <a href="https://velog.io/@jyl0311/posts">
     <img
       src="https://velog-readme-stats.vercel.app/api?name=jyl0311&hide_border=true"
