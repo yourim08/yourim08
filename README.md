@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h3>이타의 가치를 코드로 풀어내는 개발자, 전유림입니다!</h3>
+<h3>이타의 가치를 코드로 실현하는 개발자, 전유림입니다!</h3>
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/yourim08?pet-id=1" width="1000" height="150"/>
