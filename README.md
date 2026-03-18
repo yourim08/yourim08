@@ -1,10 +1,11 @@
 ## Hi there 👋
 <h3>이타의 가치를 코드로 실현하는 개발자, 전유림입니다!</h3>
+과정과 배움을 기록하고 팀원들과 공유하며 <b>함께 성장하는 것</b>을 중요하게 생각합니다. 
+<br>
+<b>협업 속에서 더 큰 결과를 만들어내는 개발자</b>가 되고자 합니다.
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/yourim08?pet-id=1" width="1000" height="150"/>
-</a>
-
+<br>
+<br>
 <h2>Language & Stats 🌱</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,flutter,java,c,python,nestjs,spring,mysql,mongodb,firebase,postgresql&perline=5)](https://skillicons.dev)
