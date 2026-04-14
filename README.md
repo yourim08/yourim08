@@ -14,7 +14,7 @@
 [![Back Skills](https://skillicons.dev/icons?i=java,c,python,nestjs,spring)](https://skillicons.dev)
 <br>
 
-## DB 📊
+## DB 📚
 [![DB Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgresql)](https://skillicons.dev)
 <br>
 <br>
