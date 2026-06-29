@@ -10,7 +10,7 @@
 <br>
 
 ## Back 🛠️
-[![Back Skills](https://skillicons.dev/icons?i=java,c,python,nestjs,spring)](https://skillicons.dev)
+[![Back Skills](https://skillicons.dev/icons?i=java,c,python,nestjs,spring,nodejs)](https://skillicons.dev)
 <br>
 
 ## DB 📚
